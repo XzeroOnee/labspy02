@@ -8,7 +8,7 @@
 + <p>Bandingkan kembali (x) dengan (y) dan (z). Apabila bernilai true maka akan tercetak nilai (y).</p>
 + <p>Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (z).</p>
 + <p>stop</p>
-![gambar](labspy02/Abesar.png)
+![gambar](labspy02/Praktikum2/Secreenshots/Abesar.png)
 ![gambar](labspy02/Bbesar.png)
 ![gambar](labspy02/Cbesar.png)
 ![gambar](labspy02/flow.png)
