@@ -18,7 +18,7 @@
 
 <p>Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.</p>
 
-![gambar](labspy02/lab2/Secreenshots/bilanganterbesar.png)
+![gambar](labspy02/lab2/Screenshots/bilanganterbesar.png)
 
 <h1>latihan 2</h1>
 
