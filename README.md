@@ -8,9 +8,9 @@
 + <p>Bandingkan kembali (x) dengan (y) dan (z). Apabila bernilai true maka akan tercetak nilai (y).</p>
 + <p>Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (z).</p>
 + <p>stop</p>
-![gambar](labspy02/Praktikum2/Secreenshots/Abesar.png)
-![gambar](labspy02/Praktikum2/Secreenshots/Bbesar.png)
-![gambar](labspy02/Praktikum2/Secreenshots/Bbesar.png)
+![gambar](labspy02/Secreenshots/Abesar.png)
+![gambar](labspy02/Secreenshots/Bbesar.png)
+![gambar](labspy02/Secreenshots/Bbesar.png)
 ![gambar](labspy02/Praktikum2/Secreenshots/.png)
 
 <h1>LAB 2</h1>
@@ -18,7 +18,7 @@
 
 <p>Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.</p>
 
-![gambar](lab2/Screenshots/bilanganterbesar.png)
+![gambar](labspy02/Secreenshots/bilanganterbesar.png)
 
 <h1>latihan 2</h1>
 
@@ -26,7 +26,7 @@
 
 + <p>(list.sort) Syntax ini berfungsi untuk mengurutkan data</p>
 
-![gambar](lab2/Secreenshots/urutandata.png)
+![gambar](labspy02/Secreenshots/urutandata.png)
 
 <h1>LAB 3</h1>
 <h1>latihan 1</h1>
@@ -37,7 +37,7 @@
 + <p>Untuk perulangan baris dan kolom menggunakan (for)</p>
 + <p>Untuk menampikan hasil dari perulangan agar terlihat rapih menggunakan (format string) rata ke kanan sebanyak 5 karakter</p>
 + <p>Untuk menampikan hasil dari perulangan agar tidak membuat baris baru menggunakan (end='') (baris)</p>
-![gambar](labspy02/lab3/Secreenshots/pendeklarasianvariable.png)
+![gambar](labspy02/Secreenshots/pendeklarasianvariable.png)
 
 <h1>latihan 2</h1>
 
@@ -47,4 +47,4 @@
 + <p>jum = int(input("Masukan nilai: ")) Menentukan jumlah input & di konversikan dalam bilangan bulat-dimasukan ke variable jum/jumlah</p>
 + <p>while i in range(jum) Pengulangan</p>
 + <p>Menampilkan urutan sesuai inputan dengan hasil di bawah 0.5</p>
-![gambar](labspy02/lab3/Secreenshots/bilanganacak.png)
+![gambar](labspy02/Secreenshots/bilanganacak.png)
