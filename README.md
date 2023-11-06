@@ -18,7 +18,7 @@
 
 <p>Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.</p>
 
-![gambar](labspy02/lab2/Screenshots/bilanganterbesar.png)
+![gambar](lab2/Screenshots/bilanganterbesar.png)
 
 <h1>latihan 2</h1>
 
@@ -26,7 +26,7 @@
 
 + <p>(list.sort) Syntax ini berfungsi untuk mengurutkan data</p>
 
-![gambar](labspy02/lab2/Secreenshots/urutandata.png)
+![gambar](lab2/Secreenshots/urutandata.png)
 
 <h1>LAB 3</h1>
 <h1>latihan 1</h1>
